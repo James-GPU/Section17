@@ -2,6 +2,11 @@
   "name": "fcc-learn-npm-package-json",
   "author": "James",
   "description": "This is my project for Section 17",
+  "keywords": [
+    "descriptive",
+    "related",
+    "words"
+  ],
   "dependencies": {
     "express": "^4.14.0"
   },
